@@ -1,11 +1,19 @@
 {
-  "users": [{
-    "id": 1,
-    "name": "Arthur Oliveira",
-    "email": "aoliveira@empresa.com"
-  }, {
-    "id": 2,
-    "name": "Maria Julia Silva",
-    "email": "mjsilva@empresa.com"
-  }]
+  "users": [
+    {
+      "id": 2,
+      "name": "Maria Julia Silva",
+      "email": "mjsilva@empresa.com"
+    },
+    {
+      "name": "Ana Costa",
+      "email": "acosta@empresa.com",
+      "id": 3
+    },
+    {
+      "name": "Manuella Oliveira",
+      "email": "moliveira@empresa.com",
+      "id": 4
+    }
+  ]
 }
