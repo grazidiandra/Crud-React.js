@@ -1,6 +1,6 @@
 ## Crud-React.js
 
-Aplicacão de estudo: CRUD (get, post, put, delete)
+Aplicacão de estudo: CRUD (get, post, put, delete).
 
 ## TECNOLOGIAS
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
